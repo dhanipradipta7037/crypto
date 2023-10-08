@@ -1,0 +1,101 @@
+ID,Name,Code,Price,Market Cap,Supply,Logo
+1,Bitcoin,BTC,"$27,949.33","$545,128,083,467","19,507,287 BTC",https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+2,Ethereum,ETH,"$1,634.15","$196,478,432,751","120,247,521 ETH",https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+3,Tether USDt,USDT,$1.00,"$83,529,495,317","83,474,442,138 USDT",https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+4,BNB,BNB,$212.00,"$32,603,501,104","153,845,780 BNB",https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+5,XRP,XRP,$0.5222,"$27,884,767,443","53,387,299,665 XRP",https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+6,USDC,USDC,$0.9999,"$25,535,017,475","25,535,934,425 USDC",https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+7,Solana,SOL,$23.41,"$9,696,961,584","414,238,358 SOL",https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+8,Cardano,ADA,$0.2583,"$9,078,006,239","35,148,516,886 ADA",https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+9,Dogecoin,DOGE,$0.0614,"$8,677,149,291","141,322,626,384 DOGE",https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+10,TRON,TRX,$0.08797,"$7,829,856,615","89,006,514,408 TRX",https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png
+11,Toncoin,TON,$2.07,"$7,095,031,891","3,431,892,088 TON",https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png
+12,Dai,DAI,$0.9994,"$5,344,990,293","5,347,888,596 DAI",https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png
+13,Polygon,MATIC,$0.5626,"$5,232,206,800","9,299,803,031 MATIC",https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png
+14,Polkadot,DOT,$4.06,"$4,998,305,064","1,231,539,977 DOT",https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+15,Litecoin,LTC,$65.77,"$4,849,815,126","73,737,633 LTC",https://s2.coinmarketcap.com/static/img/coins/64x64/2.png
+16,Wrapped Bitcoin,WBTC,"$27,990.93","$4,564,363,494","163,106 WBTC",https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png
+17,Bitcoin Cash,BCH,$231.01,"$4,507,447,690","19,525,600 BCH",https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png
+18,Shiba Inu,SHIB,$0.000007254,"$4,274,827,503","589,346,914,631,298 SHIB",https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png
+19,Chainlink,LINK,$7.62,"$4,242,363,912","556,849,970 LINK",https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png
+20,Avalanche,AVAX,$10.42,"$3,693,291,095","354,410,824 AVAX",https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png
+21,UNUS SED LEO,LEO,$3.83,"$3,562,415,122","929,109,783 LEO",https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png
+22,TrueUSD,TUSD,$0.9995,"$3,418,355,272","3,419,808,631 TUSD",https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png
+23,Stellar,XLM,$0.1109,"$3,080,736,752","27,767,633,584 XLM",https://s2.coinmarketcap.com/static/img/coins/64x64/512.png
+24,Monero,XMR,$155.38,"$2,849,450,804","18,341,863 XMR",https://s2.coinmarketcap.com/static/img/coins/64x64/328.png
+25,OKB,OKB,$43.15,"$2,589,124,543","60,000,000 OKB",https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png
+26,Cosmos,ATOM,$6.93,"$2,553,951,120","368,329,110 ATOM",https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png
+27,Uniswap,UNI,$4.36,"$2,518,386,017","577,501,031 UNI",https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png
+28,Ethereum Classic,ETC,$15.63,"$2,240,925,387","143,395,574 ETC",https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png
+29,BUSD,BUSD,$1.00,"$2,214,816,143","2,213,836,281 BUSD",https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png
+30,Hedera,HBAR,$0.0481,"$1,610,623,822","33,491,119,602 HBAR",https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png
+31,Filecoin,FIL,$3.40,"$1,550,167,247","455,305,162 FIL",https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png
+32,Lido DAO,LDO,$1.57,"$1,401,480,113","890,273,863 LDO",https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png
+33,Internet Computer,ICP,$3.08,"$1,374,640,171","445,713,757 ICP",https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png
+34,Maker,MKR,"$1,407.10","$1,375,478,998","977,631 MKR",https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png
+35,Cronos,CRO,$0.05035,"$1,272,235,636","25,263,013,692 CRO",https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png
+36,Aptos,APT,$5.27,"$1,260,419,365","239,079,922 APT",https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png
+37,Mantle,MNT,$0.3911,"$1,246,821,056","3,189,620,631 MNT",https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png
+38,VeChain,VET,$0.01706,"$1,240,591,817","72,714,516,834 VET",https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png
+39,Optimism,OP,$1.28,"$1,131,612,555","880,444,572 OP",https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png
+40,Arbitrum,ARB,$0.8654,"$1,105,382,910","1,275,000,000 ARB",https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png
+41,NEAR Protocol,NEAR,$1.09,"$1,065,913,287","977,685,835 NEAR",https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png
+42,Quant,QNT,$88.23,"$1,065,238,959","12,072,738 QNT",https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png
+43,Aave,AAVE,$66.84,"$974,871,402","14,583,633 AAVE",https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png
+44,The Graph,GRT,$0.08546,"$789,565,902","9,239,455,395 GRT",https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png
+45,Algorand,ALGO,$0.09982,"$789,289,142","7,907,249,201 ALGO",https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png
+46,Stacks,STX,$0.5184,"$732,541,892","1,412,435,236 STX",https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png
+47,USDD,USDD,$1.00,"$729,767,001","729,676,491 USDD",https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png
+48,XDC Network,XDC,$0.04947,"$686,072,972","13,868,566,359 XDC",https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png
+49,Bitcoin SV,BSV,$35.19,"$677,978,769","19,266,077 BSV",https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png
+50,Render,RNDR,$1.82,"$677,527,340","371,908,453 RNDR",https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png
+51,Immutable,IMX,$0.5536,"$669,276,281","1,208,896,260 IMX",https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png
+52,Injective,INJ,$7.75,"$649,060,614","83,755,556 INJ",https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png
+53,Tezos,XTZ,$0.6752,"$645,250,990","955,355,170 XTZ",https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png
+54,Bitget Token,BGB,$0.4547,"$636,632,914","1,400,000,000 BGB",https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png
+55,Axie Infinity,AXS,$4.47,"$632,225,457","141,310,958 AXS",https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png
+56,MultiversX,EGLD,$24.18,"$629,957,973","26,053,010 EGLD",https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png
+57,EOS,EOS,$0.5679,"$627,517,450","1,104,854,421 EOS",https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png
+58,The Sandbox,SAND,$0.2997,"$619,705,912","2,067,931,926 SAND",https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png
+59,Theta Network,THETA,$0.6167,"$616,736,215","1,000,000,000 THETA",https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png
+60,THORChain,RUNE,$1.76,"$591,811,707","336,590,705 RUNE",https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png
+61,Decentraland,MANA,$0.2977,"$563,587,494","1,893,095,371 MANA",https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png
+62,Synthetix,SNX,$2.01,"$542,997,141","270,808,069 SNX",https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png
+63,Fantom,FTM,$0.1924,"$539,385,107","2,803,634,836 FTM",https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png
+64,Kava,KAVA,$0.6193,"$511,423,020","825,742,588 KAVA",https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png
+65,Neo,NEO,$7.18,"$506,468,818","70,538,831 NEO",https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png
+66,Pax Dollar,USDP,$0.9945,"$483,389,187","486,062,949 USDP",https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png
+67,eCash,XEC,$0.0000247,"$482,219,344","19,519,485,923,093 XEC",https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png
+68,PAX Gold,PAXG,"$1,852.44","$460,548,983","248,689 PAXG",https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png
+69,Flow,FLOW,$0.4426,"$458,505,784","1,036,200,000 FLOW",https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png
+70,Tether Gold,XAUt,"$1,843.39","$454,445,830","246,524 XAUt",https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png
+71,Chiliz,CHZ,$0.05968,"$446,294,882","7,478,079,839 CHZ",https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png
+72,Zcash,ZEC,$27.02,"$441,187,417","16,328,269 ZEC",https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png
+73,Trust Wallet Token,TWT,$1.04,"$433,817,478","416,649,900 TWT",https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png
+74,KuCoin Token,KCS,$4.49,"$434,670,548","96,732,986 KCS",https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png
+75,IOTA,IOTA,$0.1545,"$429,510,751","2,779,530,283 IOTA",https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png
+76,Ocean Protocol,OCEAN,$0.2992,"$422,261,243","1,410,000,000 OCEAN",https://s2.coinmarketcap.com/static/img/coins/64x64/3911.png
+77,Curve DAO Token,CRV,$0.4715,"$415,866,362","881,967,099 CRV",https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png
+78,Conflux,CFX,$0.1266,"$413,773,336","3,269,131,780 CFX",https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png
+79,Frax Share,FXS,$5.45,"$405,129,809","74,274,509 FXS",https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png
+80,ApeCoin,APE,$1.09,"$401,518,187","368,593,750 APE",https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png
+81,Rocket Pool,RPL,$20.09,"$397,226,895","19,768,220 RPL",https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png
+82,Huobi Token,HT,$2.36,"$383,395,854","162,233,844 HT",https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png
+83,Mina,MINA,$0.3879,"$380,504,800","980,852,534 MINA",https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png
+84,Sui,SUI,$0.4413,"$379,669,236","860,392,960 SUI",https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png
+85,Klaytn,KLAY,$0.1193,"$379,309,883","3,180,267,671 KLAY",https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png
+86,dYdX,DYDX,$2.06,"$378,725,747","183,765,523 DYDX",https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png
+87,Casper,CSPR,$0.03212,"$365,216,022","11,371,558,898 CSPR",https://s2.coinmarketcap.com/static/img/coins/64x64/5899.png
+88,BitTorrent(New),BTT,$0.0...03823,"$363,906,235","951,421,714,286,000 BTT",https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png
+89,Gala,GALA,$0.01443,"$356,765,539","24,719,694,522 GALA",https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png
+90,GateToken,GT,$3.71,"$356,861,966","96,044,864 GT",https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png
+91,GMX,GMX,$38.36,"$349,765,907","9,091,796 GMX",https://s2.coinmarketcap.com/static/img/coins/64x64/11857.png
+92,Compound,COMP,$43.28,"$342,182,151","7,905,184 COMP",https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png
+93,Terra Classic,LUNC,$0.00005838,"$339,365,145","5,804,251,027,379 LUNC",https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png
+94,WOO Network,WOO,$0.1814,"$318,644,087","1,756,157,822 WOO",https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png
+95,APENFT,NFT,$0.0...03198,"$316,554,697","990,105,682,877,398 NFT",https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png
+96,Dash,DASH,$26.80,"$307,819,987","11,486,203 DASH",https://s2.coinmarketcap.com/static/img/coins/64x64/131.png
+97,Nexo,NEXO,$0.5489,"$307,369,499","560,000,011 NEXO",https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png
+98,Pepe,PEPE,$0.0...07052,"$276,295,606","391,790,000,000,000 PEPE",https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png
+99,Oasis Network,ROSE,$0.04122,"$269,711,471","6,542,267,493 ROSE",https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png
+100,Zilliqa,ZIL,$0.01694,"$268,716,124","15,867,699,447 ZIL",https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png
